@@ -25,7 +25,6 @@ src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-ba
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zafar_ibrogimov&theme=dark)](https://github.com/Sh1iba/leetcode-stats)
 
-<br> 
 
 ### Codewars
 
