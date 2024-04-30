@@ -3,6 +3,10 @@ Hi 👋 My name is Zafar Ibrogimov
 
 I am studying to be a software engineer at MIREA
 
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zafar_ibrogimov&theme=dark)](https://github.com/Sh1iba/leetcode-stats)
+
+<br> 
+
 <a href="https://www.github.com/Sh1iba" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
 ### Skills
