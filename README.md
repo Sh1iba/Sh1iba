@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-ba
 
 <br> 
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Sh1iba) 
+[![codewars](https://www.codewars.com/users/Sh1iba/badges/large)](https://www.codewars.com/users/Sh1iba) 
 
 ![Thor codding](https://github.com/Sh1iba/Sh1iba/blob/main/E2sn.gif)
 
