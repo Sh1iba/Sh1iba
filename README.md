@@ -3,10 +3,6 @@ Hi 👋 My name is Zafar Ibrogimov
 
 I am studying to be a software engineer at MIREA
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zafar_ibrogimov&theme=dark)](https://github.com/Sh1iba/leetcode-stats)
-
-<br> 
-
 <a href="https://www.github.com/Sh1iba" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
 ### Skills
@@ -24,6 +20,10 @@ src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-ba
 <a href="http://www.github.com/Sh1iba"><img src="https://github-readme-stats.vercel.app/api?username=Sh1iba&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="Sh1iba's GitHub stats" /></a>
 
 <a href="http://www.github.com/Sh1iba"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh1iba&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zafar_ibrogimov&theme=dark)](https://github.com/Sh1iba/leetcode-stats)
+
+<br> 
 
 <p><img align="left" src="https://github.com/Sh1iba/Sh1iba/blob/main/E2sn.gif" width="500"height="281" /></p> 
 
