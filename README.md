@@ -21,6 +21,8 @@ src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-ba
 
 <a href="http://www.github.com/Sh1iba"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh1iba&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+### Leetcode
+
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zafar_ibrogimov&theme=dark)](https://github.com/Sh1iba/leetcode-stats)
 
 <br> 
