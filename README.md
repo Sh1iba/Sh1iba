@@ -27,6 +27,6 @@ src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-ba
 
 <br> 
 
-<p><img align="left" src="https://github.com/Sh1iba/Sh1iba/blob/main/E2sn.gif" width="500"height="281" /></p> 
+![Thor codding]([https://example.com/example.gif](https://github.com/Sh1iba/Sh1iba/blob/main/E2sn.gif))
 
 <p><https://leetcode-stats-six.vercel.app/api?username=zafar_ibrogimov&theme=dark https://github.com/Sh1iba/leetcode-stats /></p>
