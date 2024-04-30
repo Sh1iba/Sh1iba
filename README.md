@@ -3,8 +3,6 @@ Hi 👋 My name is Zafar Ibrogimov
 
 I am studying to be a software engineer at MIREA
 
-* 🖥️  See my portfolio at [Leetcode](http://leetcode.com/u/zafar_ibrogimov/)
-
 <a href="https://www.github.com/Sh1iba" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
 ### Skills
@@ -24,3 +22,5 @@ src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-ba
 <a href="http://www.github.com/Sh1iba"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh1iba&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <p><img align="left" src="https://github.com/Sh1iba/Sh1iba/blob/main/E2sn.gif" width="500"height="281"/></p>
+
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zafar_ibrogimov&theme=dark)](https://github.com/Sh1iba/leetcode-stats)
