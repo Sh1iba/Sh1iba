@@ -3,7 +3,7 @@ Hi 👋 My name is Zafar Ibrogimov
 
 I am studying to be a software engineer at MIREA
 
-<p><img align="left" src="https://github.com/Sh1iba/Sh1iba/blob/main/E2sn.gif" width="500"height="281"/></p>
+<a><img align="left" src="https://github.com/Sh1iba/Sh1iba/blob/main/E2sn.gif" width="500"height="281"/></a>
 
 * 🖥️  See my portfolio at [Leetcode](http://leetcode.com/u/zafar_ibrogimov/)
 
