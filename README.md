@@ -30,6 +30,6 @@ src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-ba
 
 [![codewars](https://www.codewars.com/users/Sh1iba/badges/large)](https://www.codewars.com/users/Sh1iba) 
 
-![Space codding](https://github.com/Sh1iba/Sh1iba/blob/main/space.gif){:height="50%" width="50%"}
+<img src="https://github.com/Sh1iba/Sh1iba/raw/main/space.gif" width="480" height="270">
 
 <p><https://leetcode-stats-six.vercel.app/api?username=zafar_ibrogimov&theme=dark https://github.com/Sh1iba/leetcode-stats /></p>
