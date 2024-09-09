@@ -23,8 +23,7 @@ src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-ba
 
 ### Leetcode
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zafar_ibrogimov&theme=dark)](https://github.com/Sh1iba/leetcode-stats)
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/Sh1iba)
 
 ### Codewars
 
