@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-ba
 
 ### Leetcode
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/Sh1iba)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sh1iba)](https://leetcode.com/Sh1iba)
 
 ### Codewars
 
