@@ -17,9 +17,20 @@ src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-ba
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Sh1iba"><img src="https://github-readme-stats.vercel.app/api?username=Sh1iba&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="Sh1iba's GitHub stats" /></a>
-
-<a href="http://www.github.com/Sh1iba"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh1iba&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="http://www.github.com/Sh1iba">
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sh1iba&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="GitHub stats" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="http://www.github.com/Sh1iba">
+        <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Sh1iba&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&layout=compact" alt="GitHub streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Leetcode
 
