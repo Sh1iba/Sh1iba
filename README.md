@@ -1,7 +1,7 @@
-Hi 👋 My name is Zafar Ibrogimov
+My name is Zafar Ibrogimov
 ================================
 
-I am studying to be a software engineer at MIREA
+I'm aiming to become a backend developer.
 
 <a href="https://www.github.com/Sh1iba" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
