@@ -14,6 +14,13 @@ src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-ba
   <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
+### Codewars
+
+[![codewars](https://www.codewars.com/users/Sh1iba/badges/large)](https://www.codewars.com/users/Sh1iba)
+
+### Leetcode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/zafar_ibrogimov?theme=nord&font=Yaldevi)
 
 <b>My GitHub Stats</b>
 
@@ -31,14 +38,6 @@ src="https://img.shields.io/github/followers/Sh1iba?logo=github&style=for-the-ba
     </td>
   </tr>
 </table>
-
-### Leetcode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/zafar_ibrogimov?theme=nord&font=Yaldevi)
-
-### Codewars
-
-[![codewars](https://www.codewars.com/users/Sh1iba/badges/large)](https://www.codewars.com/users/Sh1iba) 
 
 <img src="https://github.com/Sh1iba/Sh1iba/raw/main/space.gif" width="480" height="270">
 
